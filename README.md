@@ -1,2 +1,2 @@
-<h1>Frelance</h1>
+<h1>Freelance</h1>
 <p>Neste projeto, empregamos HTML, CSS e JavaScript. Foi desenvolvido com o propósito de reproduzir o site de uma empresa especializada em encanamento. A página é composta por um cabeçalho, um corpo principal e um formulário que permite aos clientes fornecerem seus dados e detalhes sobre o problema, possibilitando à empresa entrar em contato para agendar a resolução da questão identificada.</p>
